@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd49b3e61c624d74c9a8eac3e459938d, type: 3}
+  m_Name: Sad
+  m_EditorClassIdentifier: 
+  charecter: {fileID: 1691007045480036, guid: d027f1e90fc1ff848b0a947797087205, type: 2}
+  Weapon: {fileID: 0}
+  attack: 50
+  moveSpeed: 0.5
+  jump: 0.5
+  health: 5
+  minRange: 0
+  maxRange: 0
+  collisionLayer: Default
+  background: {fileID: 2100000, guid: 666ccecf513a97f4294fb35533f5fc79, type: 2}
+  enemy: {fileID: 11400000, guid: 61bcc417746e2d44fb6580305d6a5886, type: 2}
+  enemy2: {fileID: 11400000, guid: ae0ec89b7bfb08e4baed4b766f50cf38, type: 2}
+  uiImage: {fileID: 21300000, guid: a7b75e3d9cda506498372e480e9def74, type: 3}
+  colo: {r: 0.6666667, g: 0.3254902, b: 1, a: 1}
+  vision: {r: 0.11083895, g: 0, b: 0.3207547, a: 0.43529412}
+  rotation: {fileID: 4016266633747946, guid: d027f1e90fc1ff848b0a947797087205, type: 2}
+  scale: {fileID: 4016266633747946, guid: d027f1e90fc1ff848b0a947797087205, type: 2}

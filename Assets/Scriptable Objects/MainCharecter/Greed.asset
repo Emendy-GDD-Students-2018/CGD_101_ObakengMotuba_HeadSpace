@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd49b3e61c624d74c9a8eac3e459938d, type: 3}
+  m_Name: Greed
+  m_EditorClassIdentifier: 
+  charecter: {fileID: 1279461270130654, guid: ad8a586a126f90d43944e400e1771fc4, type: 2}
+  Weapon: {fileID: 0}
+  attack: 0
+  moveSpeed: 2
+  jump: 0
+  health: 6
+  minRange: 0
+  maxRange: 0
+  collisionLayer: Default
+  background: {fileID: 2100000, guid: c8e2a268f3b6f794c9a45c6a77134a4b, type: 2}
+  enemy: {fileID: 11400000, guid: 5b10e21a573f16d4884220f2bc6cfbd7, type: 2}
+  enemy2: {fileID: 11400000, guid: 5b10e21a573f16d4884220f2bc6cfbd7, type: 2}
+  uiImage: {fileID: 21300000, guid: 9f023a9df65470e45bb07c39cc3b7e7c, type: 3}
+  colo: {r: 0.44705886, g: 0.42352945, b: 0.20392159, a: 1}
+  vision: {r: 0, g: 0, b: 0, a: 0}
+  rotation: {fileID: 4956826159492878, guid: ad8a586a126f90d43944e400e1771fc4, type: 2}
+  scale: {fileID: 4956826159492878, guid: ad8a586a126f90d43944e400e1771fc4, type: 2}

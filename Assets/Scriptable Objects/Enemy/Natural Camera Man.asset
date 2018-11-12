@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfbd563ba2d2a3548b2e1dd6e2eb3a51, type: 3}
+  m_Name: Natural Camera Man
+  m_EditorClassIdentifier: 
+  charecter: {fileID: 1128811795422746, guid: ee16cf3d10b22904497233ac6f5cf856, type: 2}
+  Weapon: {fileID: 0}
+  attackMinDamage: 0
+  attackMaxDamage: 0
+  attackCooldown: 3
+  moveSpeed: 0.2
+  bulletSpeed: 1
+  axeSpeed: 1
+  rotation: {fileID: 4350698359182952, guid: ee16cf3d10b22904497233ac6f5cf856, type: 2}
+  scale: {fileID: 4350698359182952, guid: ee16cf3d10b22904497233ac6f5cf856, type: 2}
+  health: 0
+  followDistance: 10
+  fireDistance: 7
+  stopDistance: 2

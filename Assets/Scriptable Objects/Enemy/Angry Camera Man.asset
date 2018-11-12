@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfbd563ba2d2a3548b2e1dd6e2eb3a51, type: 3}
+  m_Name: Angry Camera Man
+  m_EditorClassIdentifier: 
+  charecter: {fileID: 1342273825777572, guid: 0b9bddb0ac775f2448e8ad9ccddf37cd, type: 2}
+  Weapon: {fileID: 0}
+  attackMinDamage: 0
+  attackMaxDamage: 2
+  attackCooldown: 1
+  moveSpeed: 0.5
+  bulletSpeed: 2
+  axeSpeed: 2
+  rotation: {fileID: 4781960488157656, guid: 0b9bddb0ac775f2448e8ad9ccddf37cd, type: 2}
+  scale: {fileID: 4781960488157656, guid: 0b9bddb0ac775f2448e8ad9ccddf37cd, type: 2}
+  health: 0
+  followDistance: 14
+  fireDistance: 9
+  stopDistance: 2

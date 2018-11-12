@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfbd563ba2d2a3548b2e1dd6e2eb3a51, type: 3}
+  m_Name: Sad Salesman
+  m_EditorClassIdentifier: 
+  charecter: {fileID: 1026451046873938, guid: 65f069a7e2835964aac8015ec761932c, type: 2}
+  Weapon: {fileID: 0}
+  attackMinDamage: 0
+  attackMaxDamage: 0
+  attackCooldown: 0
+  moveSpeed: 0
+  bulletSpeed: 4
+  axeSpeed: 4
+  rotation: {fileID: 4412258849398210, guid: 65f069a7e2835964aac8015ec761932c, type: 2}
+  scale: {fileID: 4412258849398210, guid: 65f069a7e2835964aac8015ec761932c, type: 2}
+  health: 0
+  followDistance: 0
+  fireDistance: 0
+  stopDistance: 0
